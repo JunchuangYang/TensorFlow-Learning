@@ -18,6 +18,6 @@
 
 在学习次项目的过程中我好奇input_data.read_data_sets()这个函数是如何获取到数据的，于是上网搜到两篇不错的技术文档，共有需要的人学习。
 
-[[使用Tensorflow操作MNIST数据](https://www.cnblogs.com/eczhou/p/7860508.html)](http://www.cnblogs.com/eczhou/p/7860508.html)
+[使用Tensorflow操作MNIST数据](http://www.cnblogs.com/eczhou/p/7860508.html)
 
 [MNIST进阶之read_data_sets()](https://blog.csdn.net/qq_33254870/article/details/81388620)
