@@ -9,7 +9,7 @@
     writer = tf.summary.FileWriter('logs/',sess.graph)
 在CMD中输入：tensorboard  --logdir=path
 
-path 为你存储的路径
+path 为你自定义的图的存储的路径
 
 ![](image/1.png)
 
